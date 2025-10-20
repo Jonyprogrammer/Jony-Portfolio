@@ -45,4 +45,4 @@ Telegram: https://t.me/Jony_programmer
 
 Email: jonibekhusnidinov01@gmail.com
 
-GitHub: @Jonyprogrammer
+GitHub: https://www.github.com/Jonyprogrammer
